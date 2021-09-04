@@ -1,14 +1,15 @@
 import requests
-import csv
+import subprocess
+from git import Repo
 
-headers = {"Authorization": "Your Git API Token"}
+headers = {"Authorization": ""}
 
 
 def run_query(after):
     after_formatted = "null" if after is None else "\"" + after + "\""
     query = """
     {
-        search(query:"language:java", type: REPOSITORY, first: 100, after:""" + after_formatted + """) {
+        search(query:"language:java", type: REPOSITORY, first: 1, after:""" + after_formatted + """) {
             pageInfo {
               endCursor
               hasNextPage
@@ -44,13 +45,37 @@ def save_on_file(query_result, writer):
     return False
 
 
-pages = 10
-afterCode = None
-for page in range(pages):
-    print(f"\n========== Page {page + 1} ==========\n")
-    result = run_query(afterCode)
-    print_query_result(result)
-    has_next = result["data"]["search"]["pageInfo"]["hasNextPage"]
-    if not has_next:
-        break
-    afterCode = result["data"]["search"]["pageInfo"]["endCursor"]
+def clone_repo(repo, file, directory):
+    url = repo["url"]
+    print(f"Cloning {file}...")
+    Repo.clone_from(url, f'./{directory}/{file}')
+
+
+def delete_repo(file, directory):
+    subprocess.run(f"cd {directory} && rmdir /s /q {file}", shell=True)
+
+
+def process_repos(query_result):
+    directory = 'repos'
+    for repo in query_result:
+        file = repo["nameWithOwner"].replace("/", "")
+        clone_repo(repo, file, directory)
+        delete_repo(file, directory)
+
+
+def main():
+    pages = 2
+    after_code = None
+    for page in range(pages):
+        print(f"\n========== Page {page + 1} ==========\n")
+        result = run_query(after_code)
+        process_repos(result["data"]["search"]["nodes"])
+        print_query_result(result)
+        has_next = result["data"]["search"]["pageInfo"]["hasNextPage"]
+        if not has_next:
+            break
+        after_code = result["data"]["search"]["pageInfo"]["endCursor"]
+
+
+if __name__ == "__main__":
+    main()
