@@ -3,7 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos/CyC2018CS-Notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/MisterBoooLeetCodeAnimation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos/SnailclimbJavaGuide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/elasticelasticsearch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos/iluwatarjava-design-patterns" vcs="Git" />
   </component>
 </project>
