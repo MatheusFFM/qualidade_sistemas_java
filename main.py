@@ -72,9 +72,10 @@ def process_repos(query_result):
     directory = 'repos'
     for repo in query_result:
         file = repo["nameWithOwner"].replace("/", "")
-        clone_repo(repo, file, directory)
-        get_ck(file, directory)
-        delete_repo(file, directory)
+        if not os.path.exists(f'analytics/{file}'):
+            clone_repo(repo, file, directory)
+            get_ck(file, directory)
+            delete_repo(file, directory)
 
 
 def clear():
