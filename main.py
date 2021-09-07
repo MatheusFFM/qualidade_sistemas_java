@@ -8,7 +8,7 @@ from git import Repo
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
-headers = {"Authorization": "bearer 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"}
+headers = {"Authorization": "bearer <your GitHub API token>"}
 
 
 def run_query(after):
