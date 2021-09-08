@@ -8,7 +8,7 @@ from git import Repo
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
-headers = {"Authorization": "bearer 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"}
+headers = {"Authorization": "bearer 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"}
 
 
 def run_query(after):
@@ -65,7 +65,7 @@ def get_ck(file, directory):
     if not os.path.exists(path_analytics):
         os.mkdir(path_analytics)
     path_output = f'analytics/{file}/{file}'
-    subprocess.call(["java", "-jar", "ckCalc.jar", path, "true", "0", "True", path_output])
+    subprocess.call(["java", "-jar", "ckCalc.jar", path, "true", "0", "False", path_output])
 
 
 def get_api_data(data):
@@ -83,12 +83,14 @@ def get_ck_data(name, folder):
         return []
     name = name.replace("/", "")
     class_file = f"{folder}/{name}class.csv"
-    class_data = pd.read_csv(class_file)
-    loc = class_data["loc"].sum()
-    cbo = class_data["cbo"].median()
-    dit = class_data["dit"].median()
-    lcom = round(class_data["lcom*"].median(), 2)
-    return [loc, cbo, dit, lcom]
+    if os.stat(class_file).st_size > 0:
+       class_data = pd.read_csv(class_file, encoding="ISO-8859-1")
+       loc = class_data["loc"].sum()
+       cbo = class_data["cbo"].median()
+       dit = class_data["dit"].median()
+       lcom = round(class_data["lcom*"].median(), 2)
+       return [loc, cbo, dit, lcom]
+    return []
 
 
 def already_exists(name, results_file):
