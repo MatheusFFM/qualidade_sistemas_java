@@ -1,0 +1,265 @@
+file,class,method,constructor,line,cbo,cboModified,fanin,fanout,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0729.My Calendar I\Solution.java,MyCalendar,MyCalendar/0,true,4,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0729.My Calendar I\Solution.java,MyCalendar,"book/2[int,int]",false,8,1,0,0,0,4,1,9,2,0,2,1,0,0,1,0,0,0,0,2,0,0,2,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0381.Insert Delete GetRandom O(1) - Duplicates allowed\Solution.java,RandomizedCollection,RandomizedCollection/0,true,7,3,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,10,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0381.Insert Delete GetRandom O(1) - Duplicates allowed\Solution.java,RandomizedCollection,remove/1[int],false,23,1,0,0,0,4,9,20,2,4,1,9,0,0,0,0,0,0,0,1,4,1,1,0,0,0,17,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0381.Insert Delete GetRandom O(1) - Duplicates allowed\Solution.java,RandomizedCollection,getRandom/0,false,46,0,0,0,0,2,3,4,1,1,0,3,0,0,0,1,0,0,0,2,1,0,0,0,0,0,9,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0381.Insert Delete GetRandom O(1) - Duplicates allowed\Solution.java,RandomizedCollection,insert/1[int],false,14,2,0,0,0,2,4,7,1,1,1,4,0,0,0,1,0,0,0,1,1,0,0,0,0,0,17,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\1000-1099\1030.Matrix Cells in Distance Order\Solution.java,Node,"Node/2[int,int]",true,6,0,0,0,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1579.Remove Max Number of Edges to Keep Graph Fully Traversable\Solution.java,UnionFind,UnionFind/1[int],true,34,1,0,0,0,2,0,7,0,1,1,0,0,0,1,0,0,0,0,1,4,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1579.Remove Max Number of Edges to Keep Graph Fully Traversable\Solution.java,UnionFind,"union/2[int,int]",false,42,1,1,0,1,2,1,9,2,2,2,1,1,1,0,1,0,0,0,2,3,2,1,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1579.Remove Max Number of Edges to Keep Graph Fully Traversable\Solution.java,UnionFind,find/1[int],false,52,1,3,2,1,2,1,6,1,0,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\16.25.LRU Cache\Solution.java,LRUCache$Node,"Node/2[int,int]",true,10,0,1,1,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\16.25.LRU Cache\Solution.java,LRUCache$Node,Node/0,true,7,0,1,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0703.Kth Largest Element in a Stream\Solution.java,KthLargest,add/1[int],false,13,0,1,1,0,2,4,7,1,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0703.Kth Largest Element in a Stream\Solution.java,KthLargest,"KthLargest/2[int,int[]]",true,5,3,1,0,1,2,1,7,0,0,2,1,1,1,1,0,0,0,0,0,2,0,1,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1396.Design Underground System\Solution.java,UndergroundSystem,"checkIn/3[int,java.lang.String,int]",false,12,0,0,0,0,1,1,4,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1396.Design Underground System\Solution.java,UndergroundSystem,"getAverageTime/2[java.lang.String,java.lang.String]",false,27,1,0,0,0,1,1,5,1,2,2,1,0,0,0,0,0,0,1,3,2,3,0,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1396.Design Underground System\Solution.java,UndergroundSystem,"checkOut/3[int,java.lang.String,int]",false,17,1,0,0,0,1,3,9,0,4,3,3,0,0,0,0,0,0,1,3,5,2,0,0,0,0,11,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1396.Design Underground System\Solution.java,UndergroundSystem,UndergroundSystem/0,true,6,1,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0307.Range Sum Query - Mutable\Solution.java,NumArray,lowBit/1[int],false,25,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0307.Range Sum Query - Mutable\Solution.java,NumArray,"update/2[int,int]",false,42,0,0,0,0,1,1,5,0,1,2,1,0,0,0,0,0,0,0,1,2,2,0,0,0,0,5,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0307.Range Sum Query - Mutable\Solution.java,NumArray,"sumRange/2[int,int]",false,48,0,0,0,0,1,1,3,1,0,2,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0307.Range Sum Query - Mutable\Solution.java,NumArray,NumArray/1[int[]],true,3,0,0,0,0,3,1,10,0,2,1,1,0,0,2,0,0,0,0,4,5,2,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0307.Range Sum Query - Mutable\Solution.java,NumArray,"add/2[int,int]",false,17,0,0,0,0,2,1,6,0,0,2,1,0,0,1,0,0,0,0,0,2,0,1,0,0,0,5,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0307.Range Sum Query - Mutable\Solution.java,NumArray,sum/1[int],false,30,0,0,0,0,2,1,8,1,1,1,1,0,0,1,0,0,0,0,2,3,0,1,0,0,0,5,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???09. ????????\Solution.java,CQueue,deleteHead/0,false,17,1,1,0,1,3,3,6,1,0,0,3,1,1,0,0,0,0,0,1,0,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???09. ????????\Solution.java,CQueue,move/0,false,24,0,2,2,0,2,3,5,0,0,0,3,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???09. ????????\Solution.java,CQueue,appendTail/1[int],false,10,1,1,0,1,2,3,6,0,0,1,3,1,1,0,0,0,0,0,0,0,0,1,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???09. ????????\Solution.java,CQueue,CQueue/0,true,5,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0500-0599\0535.Encode and Decode TinyURL\Solution.java,Codec,decode/1[String],false,14,1,0,0,0,1,2,4,1,1,1,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0500-0599\0535.Encode and Decode TinyURL\Solution.java,Codec,encode/1[String],false,7,1,0,0,0,1,2,5,1,1,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0362.Design Hit Counter\Solution.java,HitCounter,HitCounter/0,true,6,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0362.Design Hit Counter\Solution.java,HitCounter,hit/1[int],false,12,0,0,0,0,1,2,3,0,0,1,2,0,0,0,0,0,0,0,2,0,1,0,0,0,0,9,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0362.Design Hit Counter\Solution.java,HitCounter,getHits/1[int],false,18,1,0,0,0,3,3,9,1,1,1,3,0,0,1,0,0,0,0,2,2,1,2,0,0,0,15,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0341.Flatten Nested List Iterator\Solution.java,NestedIterator,dfs/1[List<NestedInteger>],false,40,2,3,2,1,3,5,10,0,0,1,5,1,0,1,0,0,0,0,0,0,0,2,0,0,0,6,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0341.Flatten Nested List Iterator\Solution.java,NestedIterator,NestedIterator/1[List<NestedInteger>],true,24,3,1,0,1,1,2,5,0,0,1,2,1,1,0,0,0,0,0,0,2,0,0,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0341.Flatten Nested List Iterator\Solution.java,NestedIterator,next/0,false,31,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0341.Flatten Nested List Iterator\Solution.java,NestedIterator,hasNext/0,false,36,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1804.Implement Trie II (Prefix Tree)\Solution.java,Trie,countWordsStartingWith/1[java.lang.String],false,30,1,1,0,1,2,1,4,1,1,1,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,10,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1804.Implement Trie II (Prefix Tree)\Solution.java,Trie,searchPrefix/1[java.lang.String],false,45,1,4,4,0,3,2,11,2,3,1,2,0,0,1,1,0,0,0,1,4,1,2,0,0,0,8,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1804.Implement Trie II (Prefix Tree)\Solution.java,Trie,erase/1[java.lang.String],false,35,1,0,0,0,2,2,9,0,3,1,2,0,0,1,0,0,0,0,3,6,1,1,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1804.Implement Trie II (Prefix Tree)\Solution.java,Trie,countWordsEqualTo/1[java.lang.String],false,25,1,1,0,1,2,1,4,1,1,1,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,10,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1804.Implement Trie II (Prefix Tree)\Solution.java,Trie,Trie/0,true,6,1,1,1,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1804.Implement Trie II (Prefix Tree)\Solution.java,Trie,insert/1[java.lang.String],false,12,1,1,0,1,3,2,12,0,3,1,2,0,0,1,1,0,0,0,3,7,1,2,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0225.Implement Stack using Queues\Solution.java,MyStack,MyStack/0,true,6,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0225.Implement Stack using Queues\Solution.java,MyStack,top/0,false,25,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0225.Implement Stack using Queues\Solution.java,MyStack,empty/0,false,30,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0225.Implement Stack using Queues\Solution.java,MyStack,push/1[int],false,11,0,0,0,0,2,3,7,0,1,1,3,0,0,1,0,0,0,0,1,1,0,1,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0225.Implement Stack using Queues\Solution.java,MyStack,pop/0,false,20,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0731.My Calendar II\Solution.java,MyCalendarTwo,"book/2[int,int]",false,10,1,0,0,0,7,3,14,2,0,2,3,0,0,2,0,0,0,0,6,0,0,2,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0731.My Calendar II\Solution.java,MyCalendarTwo,MyCalendarTwo/0,true,5,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0173.Binary Search Tree Iterator\Solution.java,BSTIterator,next/0,false,25,1,0,0,0,2,2,7,1,2,0,2,0,0,1,1,0,0,0,0,3,0,1,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0173.Binary Search Tree Iterator\Solution.java,BSTIterator,BSTIterator/1[TreeNode],true,19,0,0,0,0,2,1,5,0,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0173.Binary Search Tree Iterator\Solution.java,BSTIterator,hasNext/0,false,33,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList,addAtTail/1[int],false,42,1,1,0,1,1,1,3,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList,MyLinkedList/0,true,19,1,1,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,10,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList,"addAtIndex/2[int,int]",false,47,1,3,2,1,3,0,11,1,1,2,0,0,0,1,0,0,0,0,1,3,0,1,0,0,0,32,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList,get/1[int],false,25,1,0,0,0,4,0,10,2,1,1,0,0,0,1,0,0,0,0,3,2,0,1,0,0,0,16,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList,addAtHead/1[int],false,37,1,1,0,1,1,1,3,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,18,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList,deleteAtIndex/1[int],false,60,1,0,0,0,4,0,13,1,2,1,0,0,0,1,0,0,0,0,2,5,0,1,0,0,0,18,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1476.Subrectangle Queries\Solution.java,SubrectangleQueries,SubrectangleQueries/1[int[][]],true,5,2,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1476.Subrectangle Queries\Solution.java,SubrectangleQueries,"updateSubrectangle/5[int,int,int,int,int]",false,10,1,0,0,0,1,1,3,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1476.Subrectangle Queries\Solution.java,SubrectangleQueries,"getValue/2[int,int]",false,14,1,0,0,0,6,2,9,2,2,2,2,0,0,1,0,0,0,0,7,2,1,2,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1117.Building H2O\Solution.java,H2O,H2O/0,true,5,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1117.Building H2O\Solution.java,H2O,hydrogen/1[java.lang.Runnable],false,9,0,0,0,0,1,3,5,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1117.Building H2O\Solution.java,H2O,oxygen/1[java.lang.Runnable],false,17,0,0,0,0,1,3,5,0,0,1,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.01.Three in One\Solution.java,TripleInOne,isEmpty/1[int],false,29,0,2,2,0,2,0,3,1,0,1,0,0,0,0,1,0,0,0,2,0,2,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.01.Three in One\Solution.java,TripleInOne,"push/2[int,int]",false,10,0,0,0,0,2,0,6,0,0,2,0,0,0,0,0,0,0,0,4,1,8,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.01.Three in One\Solution.java,TripleInOne,peek/1[int],false,25,1,1,0,1,2,1,3,1,0,1,1,1,1,0,0,0,1,0,4,0,5,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.01.Three in One\Solution.java,TripleInOne,TripleInOne/1[int],true,5,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,2,2,2,0,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.01.Three in One\Solution.java,TripleInOne,pop/1[int],false,17,1,1,0,1,2,1,7,2,0,1,1,1,1,0,0,0,0,0,4,0,6,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0500-0599\0542.01 Matrix\Solution.java,Position,"Position/2[int,int]",true,11,0,0,0,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1603.Design Parking System\Solution.java,ParkingSystem,"ParkingSystem/3[int,int,int]",true,5,0,0,0,0,1,0,5,0,0,3,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1603.Design Parking System\Solution.java,ParkingSystem,addCar/1[int],false,11,0,0,0,0,2,0,7,2,0,1,0,0,0,0,0,0,0,0,3,0,2,1,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList$ListNode,ListNode/1[int],true,6,0,1,1,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0707.Design Linked List\Solution.java,MyLinkedList$ListNode,"ListNode/2[int,MyLinkedList.ListNode]",true,9,1,1,1,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1114.Print in Order\Solution.java,Foo,third/1[java.lang.Runnable],false,22,0,0,0,0,1,2,4,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1114.Print in Order\Solution.java,Foo,Foo/0,true,7,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1114.Print in Order\Solution.java,Foo,first/1[java.lang.Runnable],false,11,0,0,0,0,1,2,4,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1114.Print in Order\Solution.java,Foo,second/1[java.lang.Runnable],false,16,0,0,0,0,1,3,5,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1500.Design a File Sharing System\Solution.java,FileSharing,leave/1[int],false,26,0,0,0,0,1,2,4,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1500.Design a File Sharing System\Solution.java,FileSharing,"request/2[int,int]",false,31,5,0,0,0,7,10,18,2,1,2,10,0,0,1,0,0,0,0,1,1,0,2,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1500.Design a File Sharing System\Solution.java,FileSharing,FileSharing/1[int],true,7,2,0,0,0,1,0,6,0,0,1,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1500.Design a File Sharing System\Solution.java,FileSharing,join/1[List<java.lang.Integer>],false,14,2,0,0,0,2,3,12,1,1,1,3,0,0,0,0,0,0,0,0,2,0,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,Front/0,false,31,1,1,0,1,2,1,6,2,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,Rear/0,false,38,1,1,0,1,2,1,7,2,1,0,1,1,1,0,0,0,1,0,2,1,3,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,MyCircularQueue/1[int],true,7,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,enQueue/1[int],false,12,1,1,0,1,2,1,9,2,1,1,1,1,1,0,0,0,1,0,0,2,2,1,0,0,0,11,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,isEmpty/0,false,46,0,3,3,0,2,0,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,deQueue/0,false,22,1,1,0,1,2,1,8,2,0,0,1,1,1,0,0,0,1,0,1,1,2,1,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0622.Design Circular Queue\Solution.java,MyCircularQueue,isFull/0,false,50,0,1,1,0,2,0,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\ShellSort\ShellSort.java,ShellSort,main/1[java.lang.String[]],false,22,2,1,0,1,1,3,3,0,0,1,3,1,1,0,0,0,0,0,6,0,0,0,0,0,0,4,9,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\ShellSort\ShellSort.java,ShellSort,shellSort/1[int[]],false,5,1,1,1,0,5,0,15,1,5,1,0,0,0,3,0,0,0,0,3,9,3,3,0,0,0,8,10,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0284.Peeking Iterator\Solution.java,PeekingIterator,peek/0,false,15,0,0,0,0,2,1,7,1,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0284.Peeking Iterator\Solution.java,PeekingIterator,next/0,false,26,0,0,0,0,2,1,9,2,1,0,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0284.Peeking Iterator\Solution.java,PeekingIterator,PeekingIterator/1[Iterator<java.lang.Integer>],true,9,1,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0284.Peeking Iterator\Solution.java,PeekingIterator,hasNext/0,false,37,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,moveToHead/1[Node],false,58,0,0,0,0,1,2,4,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,"put/2[int,int]",false,40,1,0,0,0,3,7,18,0,2,2,7,1,1,0,0,0,0,0,0,4,0,2,0,0,0,13,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,get/1[int],false,31,1,0,0,0,2,3,8,2,1,1,3,0,0,0,0,0,0,0,1,1,0,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,removeTail/0,false,75,1,0,0,0,1,1,5,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,removeNode/1[Node],false,63,0,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,addToHead/1[Node],false,68,0,0,0,0,1,0,6,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,6,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0146.Lru Cache\Solution.java,LRUCache,LRUCache/1[int],true,22,2,0,0,0,1,0,8,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,empty/0,false,52,0,3,3,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,popMiddle/0,false,34,1,2,0,2,3,5,8,2,1,0,5,2,1,0,0,0,0,0,1,1,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,popBack/0,false,43,1,2,0,2,2,3,8,2,1,0,3,2,1,0,0,0,0,0,1,1,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,pushBack/1[int],false,20,1,1,0,1,1,2,4,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,rebalance/0,false,56,0,6,6,0,3,5,8,0,0,0,5,0,0,2,0,0,0,0,1,0,1,1,0,0,0,1,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,FrontMiddleBackQueue/0,true,5,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,pushMiddle/1[int],false,15,1,1,0,1,1,2,4,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,popFront/0,false,25,1,2,0,2,3,4,8,2,1,0,4,2,1,0,0,0,0,0,1,1,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1600-1699\1670.Design Front Middle Back Queue\Solution.java,FrontMiddleBackQueue,pushFront/1[int],false,10,1,1,0,1,1,2,4,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.06.Animal Shelter\Solution.java,AnimalShelf,dequeueAny/0,false,17,2,2,0,2,4,4,3,1,0,0,4,2,1,0,0,0,2,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.06.Animal Shelter\Solution.java,AnimalShelf,dequeueDog/0,false,21,1,1,1,0,2,2,3,1,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.06.Animal Shelter\Solution.java,AnimalShelf,AnimalShelf/0,true,4,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.06.Animal Shelter\Solution.java,AnimalShelf,enqueue/1[int[]],false,9,1,0,0,0,2,1,8,0,0,1,1,0,0,0,1,0,0,0,4,0,0,1,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.06.Animal Shelter\Solution.java,AnimalShelf,dequeueCat/0,false,25,1,1,1,0,2,2,3,1,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\16.02.Words Frequency\Solution.java,WordsFrequency,get/1[java.lang.String],false,11,0,0,0,0,2,2,3,1,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\16.02.Words Frequency\Solution.java,WordsFrequency,WordsFrequency/1[java.lang.String[]],true,5,0,0,0,0,2,2,5,0,0,1,2,0,0,1,0,0,0,0,2,0,1,1,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0933.Number of Recent Calls\Solution.java,RecentCounter,RecentCounter/0,true,5,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0933.Number of Recent Calls\Solution.java,RecentCounter,ping/1[int],false,9,0,0,0,0,2,4,7,1,0,1,4,0,0,1,0,0,0,0,1,0,1,1,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\SelectionSort\SelectionSort.java,SelectionSort,"swap/3[int[],int,int]",false,17,1,1,1,0,1,0,5,0,1,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,10,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\SelectionSort\SelectionSort.java,SelectionSort,selectionSort/1[int[]],false,5,2,2,1,1,4,1,11,0,4,1,1,1,1,2,0,0,0,0,2,5,1,3,0,0,0,9,10,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\SelectionSort\SelectionSort.java,SelectionSort,main/1[java.lang.String[]],false,23,2,1,0,1,1,3,5,0,1,1,3,1,2,0,0,0,0,0,6,1,0,0,0,0,0,5,9,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1352.Product of the Last K Numbers\Solution.java,ProductOfNumbers,ProductOfNumbers/0,true,4,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1352.Product of the Last K Numbers\Solution.java,ProductOfNumbers,getProduct/1[int],false,19,0,0,0,0,2,2,3,1,0,1,2,0,0,0,0,0,0,0,3,0,3,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1352.Product of the Last K Numbers\Solution.java,ProductOfNumbers,add/1[int],false,8,0,0,0,0,3,5,10,1,0,1,5,0,0,0,1,0,0,0,3,0,2,1,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\InsertionSort\InsertionSort.java,InsertionSort,main/1[java.lang.String[]],false,15,2,1,0,1,1,3,5,0,1,1,3,1,1,0,0,0,0,0,6,1,0,0,0,0,0,5,9,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\InsertionSort\InsertionSort.java,InsertionSort,insertionSort/1[int[]],false,5,1,1,1,0,4,0,9,0,4,1,0,0,0,2,0,0,0,0,5,6,3,2,0,0,0,7,10,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1381.Design a Stack With Increment Operation\Solution.java,CustomStack,pop/0,false,15,0,0,0,0,2,0,3,1,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1381.Design a Stack With Increment Operation\Solution.java,CustomStack,"increment/2[int,int]",false,19,0,0,0,0,2,1,5,0,1,2,1,0,0,1,0,0,0,0,1,2,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1381.Design a Stack With Increment Operation\Solution.java,CustomStack,push/1[int],false,9,0,0,0,0,2,0,5,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1300-1399\1381.Design a Stack With Increment Operation\Solution.java,CustomStack,CustomStack/1[int],true,5,1,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0244.Shortest Word Distance II\Solution.java,WordDistance,"shortest/2[java.lang.String,java.lang.String]",false,13,1,0,0,0,4,4,16,1,6,2,4,0,0,1,0,0,0,0,2,7,1,2,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0244.Shortest Word Distance II\Solution.java,WordDistance,WordDistance/1[java.lang.String[]],true,4,3,0,0,0,2,3,8,0,2,1,3,0,0,1,0,0,0,0,1,3,0,1,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1865.Finding Pairs With a Certain Sum\Solution.java,FindSumPairs,"add/2[int,int]",false,15,0,0,0,0,1,3,6,0,1,2,3,0,0,0,0,0,0,0,3,2,4,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1865.Finding Pairs With a Certain Sum\Solution.java,FindSumPairs,count/1[int],false,22,0,0,0,0,2,1,7,1,1,1,1,0,0,1,0,0,0,0,2,2,1,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1865.Finding Pairs With a Certain Sum\Solution.java,FindSumPairs,"FindSumPairs/2[int[],int[]]",true,6,2,0,0,0,2,2,8,0,0,2,2,0,0,1,0,0,0,0,2,3,1,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1000-1099\1037.Valid Boomerang\Solution.java,Solution$Anonymous1,"compare/2[int[],int[]]",false,9,1,0,0,0,1,0,3,1,0,2,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0346.Moving Average from Data Stream\Solution.java,MovingAverage,next/1[int],false,13,0,0,0,0,1,1,8,1,2,1,1,0,0,0,0,0,0,0,1,4,4,0,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0346.Moving Average from Data Stream\Solution.java,MovingAverage,MovingAverage/1[int],true,8,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0232.Implement Queue using Stacks\Solution.java,MyQueue,MyQueue/0,true,7,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0232.Implement Queue using Stacks\Solution.java,MyQueue,push/1[int],false,12,0,0,0,0,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0232.Implement Queue using Stacks\Solution.java,MyQueue,empty/0,false,29,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0232.Implement Queue using Stacks\Solution.java,MyQueue,peek/0,false,23,0,0,0,0,1,2,4,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0232.Implement Queue using Stacks\Solution.java,MyQueue,pop/0,false,17,0,0,0,0,1,2,4,1,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0232.Implement Queue using Stacks\Solution.java,MyQueue,move/0,false,34,0,0,0,0,3,3,7,0,0,0,3,1,1,1,0,0,0,0,0,0,0,2,0,0,0,6,2,0,true
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???59 - II. ??????\Solution.java,MaxQueue,push_back/1[int],false,14,0,0,0,0,3,4,7,0,0,1,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???59 - II. ??????\Solution.java,MaxQueue,MaxQueue/0,true,5,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???59 - II. ??????\Solution.java,MaxQueue,max_value/0,false,10,0,0,0,0,2,2,3,1,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcof\???59 - II. ??????\Solution.java,MaxQueue,pop_front/0,false,22,0,0,0,0,3,3,6,2,1,0,3,0,0,0,1,0,0,0,1,1,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0705.Design HashSet\Solution.java,MyHashSet,contains/1[int],false,19,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0705.Design HashSet\Solution.java,MyHashSet,add/1[int],false,10,0,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0705.Design HashSet\Solution.java,MyHashSet,remove/1[int],false,14,0,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0705.Design HashSet\Solution.java,MyHashSet,MyHashSet/0,true,6,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0981.Time Based Key-Value Store\Solution.java,TimeMap,"set/3[java.lang.String,java.lang.String,int]",false,9,1,0,0,0,1,2,5,0,1,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0981.Time Based Key-Value Store\Solution.java,TimeMap,TimeMap/0,true,5,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0981.Time Based Key-Value Store\Solution.java,TimeMap,"get/2[java.lang.String,int]",false,15,1,0,0,0,3,3,8,2,2,2,3,0,0,0,1,0,0,2,0,2,0,1,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0355.Design Twitter\Solution.java,Twitter,getNewsFeed/1[int],false,24,5,0,0,0,8,7,19,1,9,1,7,0,0,3,1,0,1,0,6,7,2,3,0,0,1,40,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0355.Design Twitter\Solution.java,Twitter,"follow/2[int,int]",false,45,2,0,0,0,1,3,5,0,1,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,15,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0355.Design Twitter\Solution.java,Twitter,"unfollow/2[int,int]",false,52,2,0,0,0,1,3,5,0,1,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,15,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0355.Design Twitter\Solution.java,Twitter,Twitter/0,true,8,1,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,10,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0355.Design Twitter\Solution.java,Twitter,"postTweet/2[int,int]",false,16,2,0,0,0,1,3,6,0,1,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0211.Design Add and Search Words Data Structure\Solution.java,WordDictionary$Trie,Trie/0,true,5,1,2,2,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,5,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0380.Insert Delete GetRandom O(1)\Solution.java,RandomizedSet,getRandom/0,false,38,0,0,0,0,1,3,4,1,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,9,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0380.Insert Delete GetRandom O(1)\Solution.java,RandomizedSet,insert/1[int],false,14,0,0,0,0,2,4,8,2,0,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0380.Insert Delete GetRandom O(1)\Solution.java,RandomizedSet,RandomizedSet/0,true,7,3,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,10,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0380.Insert Delete GetRandom O(1)\Solution.java,RandomizedSet,remove/1[int],false,24,0,0,0,0,2,6,12,2,2,1,6,0,0,0,0,0,0,0,1,2,1,1,0,0,0,16,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0359.Logger Rate Limiter\Solution.java,Logger,"shouldPrintMessage/2[int,java.lang.String]",false,13,0,0,0,0,2,2,8,2,1,2,2,0,0,0,0,0,0,0,2,1,1,1,0,0,0,23,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0359.Logger Rate Limiter\Solution.java,Logger,Logger/0,true,6,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1570.Dot Product of Two Sparse Vectors\Solution.java,SparseVector,SparseVector/1[int[]],true,5,2,0,0,0,3,1,8,0,1,1,1,0,0,1,1,0,0,0,2,2,0,2,0,0,0,5,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1570.Dot Product of Two Sparse Vectors\Solution.java,SparseVector,dotProduct/1[SparseVector],false,15,2,0,0,0,3,5,13,1,4,1,5,0,0,1,0,0,0,0,2,7,1,1,0,0,0,11,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0706.Design HashMap\Solution.java,MyHashMap,MyHashMap/0,true,6,1,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0706.Design HashMap\Solution.java,MyHashMap,"put/2[int,int]",false,12,0,0,0,0,1,0,3,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0706.Design HashMap\Solution.java,MyHashMap,get/1[int],false,17,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0706.Design HashMap\Solution.java,MyHashMap,remove/1[int],false,22,0,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,11,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0901.Online Stock Span\Solution.java,StockSpanner,StockSpanner/0,true,4,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0901.Online Stock Span\Solution.java,StockSpanner,next/1[int],false,8,1,0,0,0,3,4,9,1,2,1,4,0,0,1,0,0,0,0,3,3,0,1,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1115.Print FooBar Alternately\Solution.java,FooBar,bar/1[java.lang.Runnable],false,29,0,0,0,0,3,3,11,0,1,1,3,0,0,1,0,0,0,0,1,2,0,2,0,0,0,10,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1115.Print FooBar Alternately\Solution.java,FooBar,foo/1[java.lang.Runnable],false,17,0,0,0,0,3,3,11,0,1,1,3,0,0,1,0,0,0,0,1,2,0,2,0,0,0,10,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1115.Print FooBar Alternately\Solution.java,FooBar,FooBar/1[int],true,11,0,0,0,0,1,0,5,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1195.Fizz Buzz Multithreaded\Solution.java,FizzBuzz,buzz/1[java.lang.Runnable],false,25,0,0,0,0,3,3,9,0,1,1,3,0,0,1,1,0,0,0,4,2,2,2,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1195.Fizz Buzz Multithreaded\Solution.java,FizzBuzz,fizz/1[java.lang.Runnable],false,14,0,0,0,0,3,3,9,0,1,1,3,0,0,1,1,0,0,0,4,2,2,2,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1195.Fizz Buzz Multithreaded\Solution.java,FizzBuzz,FizzBuzz/1[int],true,4,0,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1195.Fizz Buzz Multithreaded\Solution.java,FizzBuzz,fizzbuzz/1[java.lang.Runnable],false,36,0,0,0,0,2,3,7,0,1,1,3,0,0,1,0,0,0,0,2,2,1,1,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1195.Fizz Buzz Multithreaded\Solution.java,FizzBuzz,number/1[IntConsumer],false,45,1,0,0,0,6,3,18,0,1,1,3,0,0,1,4,0,0,0,9,1,4,2,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0155.Min Stack\Solution.java,MinStack,top/0,false,22,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0155.Min Stack\Solution.java,MinStack,push/1[int],false,12,0,0,0,0,1,3,4,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0155.Min Stack\Solution.java,MinStack,pop/0,false,17,0,0,0,0,1,1,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0155.Min Stack\Solution.java,MinStack,MinStack/0,true,6,1,0,0,0,1,1,5,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,8,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0155.Min Stack\Solution.java,MinStack,getMin/0,false,26,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0281.Zigzag Iterator\Solution.java,ZigzagIterator,hasNext/0,false,25,0,0,0,0,3,2,10,2,1,0,2,0,0,1,2,0,1,0,1,2,2,2,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0281.Zigzag Iterator\Solution.java,ZigzagIterator,next/0,false,16,1,0,0,0,1,2,8,1,3,0,2,0,0,0,0,0,1,0,2,4,3,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0281.Zigzag Iterator\Solution.java,ZigzagIterator,"ZigzagIterator/2[List<java.lang.Integer>,List<java.lang.Integer>]",true,7,1,0,0,0,1,1,8,0,0,2,1,0,0,0,0,0,0,0,4,2,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0348.Design Tic-Tac-Toe\Solution.java,TicTacToe,TicTacToe/1[int],true,6,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,1,0,3,2,2,0,0,0,0,9,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0348.Design Tic-Tac-Toe\Solution.java,TicTacToe,"move/3[int,int,int]",false,19,0,0,0,0,7,0,14,2,0,3,0,0,0,0,6,0,2,0,20,4,18,1,0,0,0,21,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0800-0899\0857.Minimum Cost to Hire K Workers\Solution.java,Worker,"Worker/2[double,int]",true,28,0,0,0,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0800-0899\0857.Minimum Cost to Hire K Workers\Solution.java,Worker,compareTo/1[Worker],false,34,1,0,0,0,1,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1900-1999\1967.Number of Strings That Appear as Substrings in Word\Solution.java,Solution,"numOfStrings/2[String[],String]",false,2,0,0,0,0,3,1,9,1,1,2,1,0,0,1,0,0,0,0,1,1,0,2,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0379.Design Phone Directory\Solution.java,PhoneDirectory,get/0,false,13,0,0,0,0,3,0,9,2,1,0,0,0,0,1,0,0,0,0,2,2,0,2,0,0,0,15,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0379.Design Phone Directory\Solution.java,PhoneDirectory,PhoneDirectory/1[int],true,7,1,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,20,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0379.Design Phone Directory\Solution.java,PhoneDirectory,check/1[int],false,24,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0379.Design Phone Directory\Solution.java,PhoneDirectory,release/1[int],false,29,0,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0700-0799\0743.Network Delay Time\Solution.java,Pair,"Pair/2[int,int]",true,45,0,0,0,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1845.Seat Reservation Manager\Solution.java,SeatManager,reserve/0,false,11,0,0,0,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1845.Seat Reservation Manager\Solution.java,SeatManager,unreserve/1[int],false,15,0,0,0,0,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1800-1899\1845.Seat Reservation Manager\Solution.java,SeatManager,SeatManager/1[int],true,4,1,0,0,0,2,1,6,0,1,1,1,0,0,1,0,0,0,0,1,2,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,insertFront/1[int],false,14,1,2,0,2,3,2,11,2,0,1,2,2,1,0,0,0,1,0,1,2,3,1,0,0,0,19,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,isFull/0,false,79,0,2,2,0,2,0,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,deleteLast/0,false,48,1,1,0,1,2,1,7,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,16,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,getFront/0,false,57,1,1,0,1,2,1,6,2,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,9,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,deleteFront/0,false,38,1,1,0,1,2,1,8,2,0,0,1,1,1,0,0,0,1,0,1,1,2,1,0,0,0,17,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,isEmpty/0,false,74,0,5,5,0,2,0,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,10,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,insertLast/1[int],false,27,1,1,0,1,2,1,9,2,1,1,1,1,1,0,0,0,1,0,0,2,2,1,0,0,0,20,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,MyCircularDeque/1[int],true,8,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,17,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0600-0699\0641.Design Circular Deque\Solution.java,MyCircularDeque,getRear/0,false,65,1,1,0,1,2,1,7,2,1,0,1,1,1,0,0,0,1,0,2,1,3,1,0,0,0,13,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\1200-1299\1244.Design A Leaderboard\Solution.java,Leaderboard,Leaderboard/0,true,4,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1200-1299\1244.Design A Leaderboard\Solution.java,Leaderboard,reset/1[int],false,22,0,0,0,0,1,1,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1200-1299\1244.Design A Leaderboard\Solution.java,Leaderboard,"addScore/2[int,int]",false,8,0,0,0,0,1,2,3,0,0,2,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1200-1299\1244.Design A Leaderboard\Solution.java,Leaderboard,top/1[int],false,12,2,0,0,0,2,4,9,1,3,1,4,0,0,1,0,0,0,0,2,4,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1116.Print Zero Even Odd\Solution.java,ZeroEvenOdd,odd/1[IntConsumer],false,36,1,0,0,0,2,3,7,0,1,1,3,0,0,1,0,0,0,0,4,2,0,1,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1116.Print Zero Even Odd\Solution.java,ZeroEvenOdd,ZeroEvenOdd/1[int],true,8,1,0,0,0,1,0,6,0,0,1,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1116.Print Zero Even Odd\Solution.java,ZeroEvenOdd,zero/1[IntConsumer],false,16,1,0,0,0,4,3,12,0,1,1,3,0,0,1,1,0,1,0,7,1,0,2,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1116.Print Zero Even Odd\Solution.java,ZeroEvenOdd,even/1[IntConsumer],false,28,1,0,0,0,2,3,7,0,1,1,3,0,0,1,0,0,0,0,4,2,0,1,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1429.First Unique Number\Solution.java,FirstUnique,add/1[int],false,22,0,0,0,0,2,5,10,0,0,1,5,0,0,0,0,0,0,0,2,0,1,1,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1429.First Unique Number\Solution.java,FirstUnique,FirstUnique/1[int[]],true,5,4,0,0,0,4,6,12,0,0,1,6,0,0,2,1,0,0,0,3,2,1,2,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1429.First Unique Number\Solution.java,FirstUnique,showFirstUnique/0,false,18,0,0,0,0,2,3,3,1,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\BubbleSort\BubbleSort.java,BubbleSort,"swap/3[int[],int,int]",false,18,1,1,1,0,1,0,5,0,1,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,10,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\BubbleSort\BubbleSort.java,BubbleSort,bubbleSort/1[int[]],false,5,2,2,1,1,5,1,12,0,4,1,1,1,1,2,0,0,0,0,6,6,4,3,0,0,0,11,10,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\BubbleSort\BubbleSort.java,BubbleSort,main/1[java.lang.String[]],false,24,2,1,0,1,1,3,5,0,1,1,3,1,2,0,0,0,0,0,6,1,0,0,0,0,0,5,9,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0295.Find Median from Data Stream\Solution.java,MedianFinder,addNum/1[int],false,11,0,0,0,0,2,3,7,0,0,1,3,0,0,0,0,0,0,0,1,0,1,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0295.Find Median from Data Stream\Solution.java,MedianFinder,findMedian/0,false,19,0,0,0,0,2,2,6,2,0,0,2,0,0,0,0,0,1,0,2,0,3,1,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0295.Find Median from Data Stream\Solution.java,MedianFinder,MedianFinder/0,true,6,1,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,9,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0170.Two Sum III - Data structure design\Solution.java,TwoSum,add/1[int],false,10,0,0,0,0,1,2,3,0,0,1,2,0,0,0,0,0,0,0,2,0,1,0,0,0,0,8,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0170.Two Sum III - Data structure design\Solution.java,TwoSum,find/1[int],false,15,0,0,0,0,6,3,14,3,1,1,3,0,0,1,2,0,0,0,1,1,1,3,0,0,0,19,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0100-0199\0170.Two Sum III - Data structure design\Solution.java,TwoSum,TwoSum/0,true,5,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.05.Sort of Stacks\Solution.java,SortedStack,SortedStack/0,true,3,1,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.05.Sort of Stacks\Solution.java,SortedStack,isEmpty/0,false,28,0,3,3,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.05.Sort of Stacks\Solution.java,SortedStack,peek/0,false,24,1,1,0,1,2,2,3,1,0,0,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.05.Sort of Stacks\Solution.java,SortedStack,push/1[int],false,7,2,1,0,1,4,5,10,0,1,1,5,1,1,2,0,0,0,0,0,1,0,1,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\lcci\03.05.Sort of Stacks\Solution.java,SortedStack,pop/0,false,18,1,1,0,1,2,2,5,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1100-1199\1123.Lowest Common Ancestor of Deepest Leaves\Solution.java,Data,"Data/2[TreeNode,int]",true,22,0,0,0,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0900-0999\0973.K Closest Points to Origin\Solution.java,Point,"Point/3[int,int,int]",true,15,0,0,0,0,1,0,5,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1700-1799\1797.Design Authentication Manager\Solution.java,AuthenticationManager,AuthenticationManager/1[int],true,5,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1700-1799\1797.Design Authentication Manager\Solution.java,AuthenticationManager,"generate/2[java.lang.String,int]",false,10,0,0,0,0,1,1,3,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1700-1799\1797.Design Authentication Manager\Solution.java,AuthenticationManager,"renew/2[java.lang.String,int]",false,14,0,0,0,0,3,2,7,1,1,2,2,0,0,0,1,0,0,0,0,1,1,1,0,0,0,11,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1700-1799\1797.Design Authentication Manager\Solution.java,AuthenticationManager,countUnexpiredTokens/1[int],false,22,0,0,0,0,3,1,9,1,1,1,1,0,0,1,0,0,0,0,1,1,0,2,0,0,0,9,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1472.Design Browser History\Solution.java,BrowserHistory,back/1[int],false,21,0,0,0,0,1,2,4,1,0,1,2,0,0,0,0,0,0,0,1,1,1,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1472.Design Browser History\Solution.java,BrowserHistory,BrowserHistory/1[java.lang.String],true,6,2,1,0,1,1,1,4,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1472.Design Browser History\Solution.java,BrowserHistory,visit/1[java.lang.String],false,11,0,1,1,0,2,3,10,0,0,1,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,4,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1400-1499\1472.Design Browser History\Solution.java,BrowserHistory,forward/1[int],false,26,0,0,0,0,1,2,4,1,0,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0211.Design Add and Search Words Data Structure\Solution.java,WordDictionary,WordDictionary/0,true,14,1,1,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,1,0,true
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0211.Design Add and Search Words Data Structure\Solution.java,WordDictionary,"search/2[java.lang.String,WordDictionary.Trie]",false,35,2,3,2,1,8,4,19,4,4,2,4,1,0,2,4,0,0,0,4,5,2,4,0,0,0,9,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0211.Design Add and Search Words Data Structure\Solution.java,WordDictionary,search/1[java.lang.String],false,31,1,1,0,1,1,1,3,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0211.Design Add and Search Words Data Structure\Solution.java,WordDictionary,addWord/1[java.lang.String],false,18,1,1,0,1,3,2,12,0,4,1,2,0,0,1,1,0,0,0,1,7,1,2,0,0,0,11,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0304.Range Sum Query 2D - Immutable\Solution.java,NumMatrix,"sumRegion/4[int,int,int,int]",false,14,0,0,0,0,1,0,3,1,0,4,0,0,0,0,0,0,0,0,4,0,6,0,0,0,0,3,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0300-0399\0304.Range Sum Query 2D - Immutable\Solution.java,NumMatrix,NumMatrix/1[int[][]],true,4,1,0,0,0,3,0,9,0,4,1,0,0,0,2,0,0,0,0,11,6,11,2,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0288.Unique Word Abbreviation\Solution.java,ValidWordAbbr,ValidWordAbbr/1[java.lang.String[]],true,4,4,1,0,1,2,4,9,0,2,1,4,1,1,1,0,0,0,0,0,3,0,1,0,0,0,8,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0288.Unique Word Abbreviation\Solution.java,ValidWordAbbr,wordAbbr/1[java.lang.String],false,20,0,2,2,0,2,5,9,2,2,1,5,0,0,0,0,0,0,0,4,2,2,1,0,0,0,6,2,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0200-0299\0288.Unique Word Abbreviation\Solution.java,ValidWordAbbr,isUnique/1[java.lang.String],false,14,2,1,0,1,3,4,5,1,2,1,4,1,1,0,2,0,1,0,1,2,0,0,0,0,0,7,1,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\QuickSort\Main.java,Main,main/1[String[]],false,4,1,0,0,0,3,3,12,0,5,1,3,0,0,2,0,0,0,1,4,6,1,1,0,0,0,9,9,0,false
+D:\trabCKMetrics\repos\doocsleetcode\basic\sorting\QuickSort\Main.java,Main,"quickSort/3[int[],int,int]",false,17,0,0,0,0,6,1,18,1,4,3,1,0,0,3,0,0,0,0,3,6,3,2,0,0,0,8,9,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\1500-1599\1584.Min Cost to Connect All Points\Solution.java,Edge,"Edge/3[int,int,int]",true,8,0,0,0,0,1,0,5,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,0,0,false
+D:\trabCKMetrics\repos\doocsleetcode\solution\0800-0899\0847.Shortest Path Visiting All Nodes\Solution.java,Tuple,"Tuple/3[int,int,int]",true,35,0,0,0,0,1,0,5,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,1,0,false
