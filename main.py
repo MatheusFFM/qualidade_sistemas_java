@@ -10,7 +10,7 @@ from dateutil.relativedelta import relativedelta
 
 
 
-headers = {"Authorization": "bearer <your GitHub API token>"}
+headers = {"Authorization": "bearer token"}
 
 
 
@@ -18,7 +18,7 @@ def run_query(after):
     after_formatted = "null" if after is None else "\"" + after + "\""
     query = """
     {
-        search(query:"language:java", type: REPOSITORY, first: 100, after:""" + after_formatted + """) {
+        search(query:"language:java, stars:>100", type: REPOSITORY, first: 100, after:""" + after_formatted + """) {
             pageInfo {
               endCursor
               hasNextPage
@@ -158,6 +158,7 @@ def main():
         if not has_next:
             break
         after_code = result["data"]["search"]["pageInfo"]["endCursor"]
+        
 
 
 if __name__ == "__main__":
