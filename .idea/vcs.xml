@@ -7,5 +7,7 @@
     <mapping directory="$PROJECT_DIR$/repos/SnailclimbJavaGuide" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos/elasticelasticsearch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos/iluwatarjava-design-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/java8Java8InAction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/oshioshi" vcs="Git" />
   </component>
 </project>
