@@ -10,7 +10,7 @@ from dateutil.relativedelta import relativedelta
 
 
 
-headers = {"Authorization": "bearer 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"}
+headers = {"Authorization": "bearer Your GitHub Token API"}
 
 
 
